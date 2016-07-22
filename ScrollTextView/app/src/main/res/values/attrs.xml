@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="ScrollTextView_attrs">
+        <attr name="height_min" format="dimension" />
+        <attr name="height_max" format="dimension" />
+    </declare-styleable>
+
+
+</resources>
